@@ -1,0 +1,2 @@
+python_gitlab==4.9.0
+python_sonarqube_api==2.0.5
